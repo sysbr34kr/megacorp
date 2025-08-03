@@ -1,0 +1,10 @@
+[1mdiff --git a/README.md b/README.md[m
+[1mindex f0c36b8..13b4fae 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1,3 +1,3 @@[m
+[31m-# megacorp | good marketing example[m
+[32m+[m[32m# megacorp[m
+ [m
+[31m-MegaCorp™ is _the_ enterprise Customer Relationship Management (CRM) software. Not only is it an incredible product, but it also ships a programming language for "MegaCorp developers" that want to build custom features within the MegaCorp™ ecosystem. That language is called "Apux".[m
+[32m+[m[32mThe starter repo for the [Git 2 course](https://www.boot.dev/learn/learn-git-2) on Boot.dev.[m
